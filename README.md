@@ -11,7 +11,7 @@
   
 ## Технологии
 
-- **Mobile SDK**: React Native / Flutter / Swift / Kotlin (выберите необходимую)
-- **Backend**: REST API / GraphQL (если необходимо взаимодействие с сервером)
+- **Mobile SDK**: React Native 
+- **Backend**: REST API 
 - **UI Frameworks**: TailwindCSS / Material UI / Bootstrap (для адаптации из веба)
 - **Tools**: Webpack / Babel / ESLint
