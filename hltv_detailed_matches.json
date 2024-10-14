@@ -1,0 +1,2205 @@
+[
+    {
+        "id": 2376820,
+        "time": "2024-10-14T11:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "UNiTY",
+                "logo": "https://img-cdn.hltv.org/teamlogo/coucDlsynd0Ujutb5o2SC-.png?ixlib=java-2.1.0&w=50&s=a5d9a7be6bddda8b8c01ab037786a465"
+            },
+            {
+                "id": "N/A",
+                "name": "500",
+                "logo": "https://img-cdn.hltv.org/teamlogo/UZcbniXlu7tn7zLQfZS9tW.png?ixlib=java-2.1.0&w=50&s=34e3f2195cb2ac47873bd7f45655c683"
+            }
+        ]
+    },
+    {
+        "id": 2376708,
+        "time": "2024-10-14T14:00:00",
+        "event": {
+            "name": "Winline Insight Season 6",
+            "logo": "https://img-cdn.hltv.org/eventlogo/j6IEm2wR_l03YKFBlrrhSZ.png?ixlib=java-2.1.0&w=50&s=72379e19d1face1340d81dd66a6728c8"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ECLOT",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_hHH1jUhX-4DfQpnVo6Gv-.png?ixlib=java-2.1.0&w=50&s=2c4728b37003e75e724612383c869247"
+            },
+            {
+                "id": "N/A",
+                "name": "Apogee",
+                "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
+            }
+        ]
+    },
+    {
+        "id": 2376587,
+        "time": "2024-10-14T17:00:00",
+        "event": {
+            "name": "Svenska Cupen 2024 Closed Qualifier",
+            "logo": "https://img-cdn.hltv.org/eventlogo/AdtAkCtDQEZedHFcPcEmAb.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=4a2d2c98bfbfdc20fce09566ac4d07f3"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Alliance",
+                "logo": "https://img-cdn.hltv.org/teamlogo/xsWK0BtR26rN776qdnWFC1.png?ixlib=java-2.1.0&w=50&s=4aaf659c3855ebf08c78c157a0653352"
+            },
+            {
+                "id": "N/A",
+                "name": "Pikejagarna",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2376695,
+        "time": "2024-10-15T06:00:00",
+        "event": {
+            "name": "MESA Pro Series Fall 2024 Finals",
+            "logo": "https://img-cdn.hltv.org/eventlogo/gphlkOjwELC7uDDA8UZsMj.png?ixlib=java-2.1.0&w=50&s=ea9ca71dabfb679f54cd816f7cb63d78"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ATOX",
+                "logo": "https://img-cdn.hltv.org/teamlogo/AYB9kpaAt4S3YY4xCaoI_D.png?ixlib=java-2.1.0&w=50&s=aee387925cc012718e824229a8af882d"
+            },
+            {
+                "id": "N/A",
+                "name": "The QUBE",
+                "logo": "https://img-cdn.hltv.org/teamlogo/HlSWfQpCP5mwCCnFIYAUt9.png?ixlib=java-2.1.0&w=50&s=f092ac289e57550335ba599f3d5923b1"
+            }
+        ]
+    },
+    {
+        "id": 2376821,
+        "time": "2024-10-15T08:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "GUN5",
+                "logo": "https://img-cdn.hltv.org/teamlogo/h7rPBXKkg9rmhbeBVmRG28.png?ixlib=java-2.1.0&w=50&s=691011f74dd8f8a8786a142b7b2b8c8e"
+            },
+            {
+                "id": "N/A",
+                "name": "Gaimin Gladiators",
+                "logo": "https://img-cdn.hltv.org/teamlogo/nnUUng-EKdho6MRIhK3-5N.png?ixlib=java-2.1.0&w=50&s=c586546866230a714d618f68027169ec"
+            }
+        ]
+    },
+    {
+        "id": 2376696,
+        "time": "2024-10-15T09:30:00",
+        "event": {
+            "name": "MESA Pro Series Fall 2024 Finals",
+            "logo": "https://img-cdn.hltv.org/eventlogo/gphlkOjwELC7uDDA8UZsMj.png?ixlib=java-2.1.0&w=50&s=ea9ca71dabfb679f54cd816f7cb63d78"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Clutch",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_UmAXNSapn3ul12nwPbpAV.png?ixlib=java-2.1.0&w=50&s=22f90bb4bee7f7cee625f2720f1e627e"
+            },
+            {
+                "id": "N/A",
+                "name": "IHC",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Dmy6A1T8EZ9OKU-x7yT4VR.png?ixlib=java-2.1.0&w=50&s=94ec104bae0e1fdfc5a1c39941bd89f0"
+            }
+        ]
+    },
+    {
+        "id": 2376822,
+        "time": "2024-10-15T11:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ALTERNATE aTTaX",
+                "logo": "https://img-cdn.hltv.org/teamlogo/JoPCUmjz0PcCiCPqNHIyR3.svg?ixlib=java-2.1.0&s=24f23b651e49eaab76bae4945b19d7ec"
+            },
+            {
+                "id": "N/A",
+                "name": "HOTU",
+                "logo": "https://img-cdn.hltv.org/teamlogo/UH5TD1Lyutr_JwKu2ldl-A.png?ixlib=java-2.1.0&w=50&s=6ff0544743996e6f3b166643371d2839"
+            }
+        ]
+    },
+    {
+        "id": 2376757,
+        "time": "2024-10-15T12:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Asia-Pacific",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "The Huns",
+                "logo": "https://img-cdn.hltv.org/teamlogo/fYyelkNe_vthRjX-KjR-BV.png?ixlib=java-2.1.0&w=50&s=9a4367b654013567e9def76fbedca23d"
+            },
+            {
+                "id": "N/A",
+                "name": "Bromo",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2376759,
+        "time": "2024-10-15T12:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Asia-Pacific",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "SGGT",
+                "logo": "/img/static/team/placeholder.svg"
+            },
+            {
+                "id": "N/A",
+                "name": "Gods Reign",
+                "logo": "https://img-cdn.hltv.org/teamlogo/8K7vZILhf0BHUAvZrF41Dd.png?ixlib=java-2.1.0&w=50&s=0af35d801062c39208d283c5063dcb26"
+            }
+        ]
+    },
+    {
+        "id": 2376760,
+        "time": "2024-10-15T12:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Asia-Pacific",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "GR",
+                "logo": "https://img-cdn.hltv.org/teamlogo/i6FnQsUuKSKvZJwrwQbIzb.png?ixlib=java-2.1.0&w=50&s=0f4f88d7d4f55014c2abccf2eace822f"
+            },
+            {
+                "id": "N/A",
+                "name": "-72c",
+                "logo": "https://img-cdn.hltv.org/teamlogo/nK2ArLbaxRsdi4JWbRSY9H.png?ixlib=java-2.1.0&w=50&s=8bd9ca1cee6f03504fc59d3d0a3e0cb1"
+            }
+        ]
+    },
+    {
+        "id": 2376758,
+        "time": "2024-10-15T13:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Asia-Pacific",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "IHC",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Dmy6A1T8EZ9OKU-x7yT4VR.png?ixlib=java-2.1.0&w=50&s=94ec104bae0e1fdfc5a1c39941bd89f0"
+            },
+            {
+                "id": "N/A",
+                "name": "ATOX",
+                "logo": "https://img-cdn.hltv.org/teamlogo/AYB9kpaAt4S3YY4xCaoI_D.png?ixlib=java-2.1.0&w=50&s=aee387925cc012718e824229a8af882d"
+            }
+        ]
+    },
+    {
+        "id": 2376588,
+        "time": "2024-10-15T17:00:00",
+        "event": {
+            "name": "Svenska Cupen 2024 Closed Qualifier",
+            "logo": "https://img-cdn.hltv.org/eventlogo/AdtAkCtDQEZedHFcPcEmAb.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=4a2d2c98bfbfdc20fce09566ac4d07f3"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Venom",
+                "logo": "/img/static/team/placeholder.svg"
+            },
+            {
+                "id": "N/A",
+                "name": "Lemondogs",
+                "logo": "https://img-cdn.hltv.org/teamlogo/V3KRX5EGW83060EW6mlB0M.png?ixlib=java-2.1.0&w=50&s=c7ecc6c6d73ced9595e264cfe08a8a9f"
+            }
+        ]
+    },
+    {
+        "id": 2376743,
+        "time": "2024-10-15T17:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Sangal",
+                "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
+            },
+            {
+                "id": "N/A",
+                "name": "Sashi",
+                "logo": "https://img-cdn.hltv.org/teamlogo/xa5M31PECYUvHs6wlM9nzM.png?ixlib=java-2.1.0&w=50&s=e3f81637bc8dc9f9e3ab89a0a5c78d7d"
+            }
+        ]
+    },
+    {
+        "id": 2376744,
+        "time": "2024-10-15T17:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "3DMAX",
+                "logo": "https://img-cdn.hltv.org/teamlogo/uZYa5_FFR-SxtqMQxNGzco.svg?ixlib=java-2.1.0&s=6e7c8a89950b732529e481338b5892b8"
+            },
+            {
+                "id": "N/A",
+                "name": "TSM",
+                "logo": "https://img-cdn.hltv.org/teamlogo/xYv5kmlnO1npqv0QVHrfrC.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=42838e0e9e80be00b9c5829869818956"
+            }
+        ]
+    },
+    {
+        "id": 2376745,
+        "time": "2024-10-15T17:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Aurora",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Tn34gRpdxo9yhixcQSnpMP.png?ixlib=java-2.1.0&w=50&s=605651da6b0b6984f348584fec6c0710"
+            },
+            {
+                "id": "N/A",
+                "name": "PARIVISION",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6LmMX-SC5VWhlmfE3UO0CB.png?ixlib=java-2.1.0&w=50&s=7769d3dec7b4a737379fcfd760269595"
+            }
+        ]
+    },
+    {
+        "id": 2376746,
+        "time": "2024-10-15T17:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Zero Tenacity",
+                "logo": "https://img-cdn.hltv.org/teamlogo/5RRO6-Yzo13W3OjXINCQEJ.png?ixlib=java-2.1.0&w=50&s=c7d19d01153c3bff329a5b5a4fdd05e1"
+            },
+            {
+                "id": "N/A",
+                "name": "9 Pandas",
+                "logo": "https://img-cdn.hltv.org/teamlogo/u4ZlTBpqD-bXOZRqxYY385.png?ixlib=java-2.1.0&w=50&s=38f37be55f5116fd1b09664a7547042d"
+            }
+        ]
+    },
+    {
+        "id": 2376785,
+        "time": "2024-10-15T22:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Imperial",
+                "logo": "https://img-cdn.hltv.org/teamlogo/WF5P55R5fxcmhoew6vHZQr.png?ixlib=java-2.1.0&w=50&s=ecc0a33173ed783477ab8be4cfa6e215"
+            },
+            {
+                "id": "N/A",
+                "name": "inSanitY",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Hx_rIktdg_xN4j4RsjpAU1.png?ixlib=java-2.1.0&w=50&s=78b000c1e2e532e1dbaa4ecbd21e56e7"
+            }
+        ]
+    },
+    {
+        "id": 2376786,
+        "time": "2024-10-15T22:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "BESTIA",
+                "logo": "https://img-cdn.hltv.org/teamlogo/uuzGqFKAosbnUG16W3HWav.png?ixlib=java-2.1.0&w=50&s=4477fefee41ba45005f17a50bb340b88"
+            },
+            {
+                "id": "N/A",
+                "name": "RED Canids",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Lyr7VJ-litGOwnRBu_8K5q.png?ixlib=java-2.1.0&w=50&s=4beac26b74d83ad2b1753ba2c5cb575d"
+            }
+        ]
+    },
+    {
+        "id": 2376787,
+        "time": "2024-10-15T22:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Sharks",
+                "logo": "https://img-cdn.hltv.org/teamlogo/xduTwTuydAWc0Dbt-eEjeH.png?ixlib=java-2.1.0&w=50&s=16cdced9e9b1a2b2e771157638f39391"
+            },
+            {
+                "id": "N/A",
+                "name": "Case",
+                "logo": "https://img-cdn.hltv.org/teamlogo/WmWYBzE1cDT15ggm6W-mFs.png?ixlib=java-2.1.0&w=50&s=14dad0ea86795786adfc3c89f3041097"
+            }
+        ]
+    },
+    {
+        "id": 2376788,
+        "time": "2024-10-15T22:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ODDIK",
+                "logo": "https://img-cdn.hltv.org/teamlogo/vpWs2bh24DJ8mqXotmXCJM.png?ixlib=java-2.1.0&w=50&s=415cf2a5a2ef2c318943b5bc53b38681"
+            },
+            {
+                "id": "N/A",
+                "name": "KRÜ",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6TGffcmOguArOxbFtyzHpC.png?ixlib=java-2.1.0&w=50&s=baef02f7c3a9bf80ff205810912b173b"
+            }
+        ]
+    },
+    {
+        "id": 2376771,
+        "time": "2024-10-16T01:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Nouns",
+                "logo": "https://img-cdn.hltv.org/teamlogo/hZai-tlfz3XBR5AAiF2w3D.png?ixlib=java-2.1.0&w=50&s=c264e2bae3dc8bac05016dcf8fb8dc72"
+            },
+            {
+                "id": "N/A",
+                "name": "Wildcard",
+                "logo": "https://img-cdn.hltv.org/teamlogo/-46lJ-DcmPL_j_5R2WvLiS.png?ixlib=java-2.1.0&w=50&s=3bf750ca209fefcb665134fd61f43ffb"
+            }
+        ]
+    },
+    {
+        "id": 2376772,
+        "time": "2024-10-16T01:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "NRG",
+                "logo": "https://img-cdn.hltv.org/teamlogo/SJZaPBCyZssru-pUDS3aZe.png?ixlib=java-2.1.0&w=50&s=5f4ca255d90b4ea7092882834bbf1bdc"
+            },
+            {
+                "id": "N/A",
+                "name": "Party Astronauts",
+                "logo": "https://img-cdn.hltv.org/teamlogo/5u8WkSr7yNWGWTNAfbEYjD.png?ixlib=java-2.1.0&w=50&s=6d1141a37578edbb5ed61cf53c28832b"
+            }
+        ]
+    },
+    {
+        "id": 2376773,
+        "time": "2024-10-16T01:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "BOSS",
+                "logo": "https://img-cdn.hltv.org/teamlogo/T2F4lhjlOmbrxd7VUHaK-_.png?ixlib=java-2.1.0&w=50&s=4da79d39a39b33afbcef7a8952fb2bc5"
+            },
+            {
+                "id": "N/A",
+                "name": "FLUFFY AIMERS",
+                "logo": "https://img-cdn.hltv.org/teamlogo/RPw6OzRyjHHzNiwqx-7VDp.png?ixlib=java-2.1.0&w=50&s=50de24d010c5f40dcc2711b5a5b511e5"
+            }
+        ]
+    },
+    {
+        "id": 2376774,
+        "time": "2024-10-16T01:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "E-Xolos LAZER",
+                "logo": "https://img-cdn.hltv.org/teamlogo/SEIUBFE3gD6hoCEXa8JFye.png?ixlib=java-2.1.0&w=50&s=89089e2cc5b2c0d10427afa74052fce1"
+            },
+            {
+                "id": "N/A",
+                "name": "timbermen",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_vkP-deYZo2o5V57Ayq2Fr.png?ixlib=java-2.1.0&w=50&s=c329baf7b4a9e06d3a95ec89f3bdc58a"
+            }
+        ]
+    },
+    {
+        "id": 2376697,
+        "time": "2024-10-16T06:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376805,
+        "time": "2024-10-16T08:00:00",
+        "event": {
+            "name": "RES Regional Champions 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/9McU1r9WdswAMjLpLcjL5o.png?ixlib=java-2.1.0&w=50&s=6253a588dc0eb78cfdfb891b42002f2f"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Fluxo",
+                "logo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?ixlib=java-2.1.0&w=50&s=f7d69ef82fdaf8d8b7f5a1a7fa8f13ed"
+            },
+            {
+                "id": "N/A",
+                "name": "Aurora",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Tn34gRpdxo9yhixcQSnpMP.png?ixlib=java-2.1.0&w=50&s=605651da6b0b6984f348584fec6c0710"
+            }
+        ]
+    },
+    {
+        "id": 2376823,
+        "time": "2024-10-16T08:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "CYBERSHOKE",
+                "logo": "https://img-cdn.hltv.org/teamlogo/MDFborrTXebGid2bmaTA2B.png?ixlib=java-2.1.0&w=50&s=a8286c6bf3a3c7ad03627c45e617a249"
+            },
+            {
+                "id": "N/A",
+                "name": "Monte Gen",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Jxc2VqzULc-MN_fdNUJJrx.png?ixlib=java-2.1.0&w=50&s=b73b5f46c7c03689b3b73b7ac57ba615"
+            }
+        ]
+    },
+    {
+        "id": 2376698,
+        "time": "2024-10-16T09:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376730,
+        "time": "2024-10-16T10:00:00",
+        "event": {
+            "name": "Elisa Masters Espoo 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/U1uWoBalR--yFbqx9PfCHL.png?ixlib=java-2.1.0&w=50&s=885bc6e6a8b0b60800399bb9ac2f3615"
+        },
+        "maps": "bo1",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "The MongolZ",
+                "logo": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d"
+            },
+            {
+                "id": "N/A",
+                "name": "JANO",
+                "logo": "https://img-cdn.hltv.org/teamlogo/kQCUocnwX5b6iV6VqUJpFA.png?ixlib=java-2.1.0&w=50&s=89440fe49943d9d739584088dee8a9c9"
+            }
+        ]
+    },
+    {
+        "id": 2376731,
+        "time": "2024-10-16T11:00:00",
+        "event": {
+            "name": "Elisa Masters Espoo 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/U1uWoBalR--yFbqx9PfCHL.png?ixlib=java-2.1.0&w=50&s=885bc6e6a8b0b60800399bb9ac2f3615"
+        },
+        "maps": "bo1",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Ninjas in Pyjamas",
+                "logo": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb"
+            },
+            {
+                "id": "N/A",
+                "name": "B8",
+                "logo": "https://img-cdn.hltv.org/teamlogo/O6nRWTCjUzBAR4pcOcrpSG.png?ixlib=java-2.1.0&w=50&s=305dde82e764725dab7e626800328137"
+            }
+        ]
+    },
+    {
+        "id": 2376806,
+        "time": "2024-10-16T11:00:00",
+        "event": {
+            "name": "RES Regional Champions 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/9McU1r9WdswAMjLpLcjL5o.png?ixlib=java-2.1.0&w=50&s=6253a588dc0eb78cfdfb891b42002f2f"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Sangal",
+                "logo": "https://img-cdn.hltv.org/teamlogo/zPv_FeMF8CANC10Jz32P9l.png?ixlib=java-2.1.0&w=50&s=741a13d27b484b39f24cdc76dbf80568"
+            },
+            {
+                "id": "N/A",
+                "name": "Nemiga",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
+            }
+        ]
+    },
+    {
+        "id": 2376824,
+        "time": "2024-10-16T11:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Johnny Speeds",
+                "logo": "https://img-cdn.hltv.org/teamlogo/QlTGasGIoptwol2wD0I9cz.png?ixlib=java-2.1.0&w=50&s=5898c32e51f2df929bfd1067dc296e20"
+            },
+            {
+                "id": "N/A",
+                "name": "WW",
+                "logo": "https://img-cdn.hltv.org/teamlogo/eCREd3vUcWijSsxUZ7GEoW.png?ixlib=java-2.1.0&w=50&s=aeda10fd2ce9c4467e66c3c4415b8cdc"
+            }
+        ]
+    },
+    {
+        "id": 2376761,
+        "time": "2024-10-16T12:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Asia-Pacific",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "TYLOO",
+                "logo": "https://img-cdn.hltv.org/teamlogo/hMPKtNMDxp07n3lrBEHCuq.svg?ixlib=java-2.1.0&s=6d22fc4af07d0cd9d31fcd7f3023af9a"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376762,
+        "time": "2024-10-16T12:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Asia-Pacific",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Lynn Vision",
+                "logo": "https://img-cdn.hltv.org/teamlogo/vO_s8NWgDhLzqFsj6p9xTt.png?ixlib=java-2.1.0&w=50&s=1fd5c4b19dd9d173c7d1981614ba0094"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376763,
+        "time": "2024-10-16T12:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376764,
+        "time": "2024-10-16T12:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376734,
+        "time": "2024-10-16T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376810,
+        "time": "2024-10-16T14:00:00",
+        "event": {
+            "name": "RES Regional Champions 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/9McU1r9WdswAMjLpLcjL5o.png?ixlib=java-2.1.0&w=50&s=6253a588dc0eb78cfdfb891b42002f2f"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Solid",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_cLGeqI_Tcxj3tdXw2dq8z.png?ixlib=java-2.1.0&w=50&s=613f0767827df7f6613b494a8fecc5fa"
+            },
+            {
+                "id": "N/A",
+                "name": "PARIVISION",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6LmMX-SC5VWhlmfE3UO0CB.png?ixlib=java-2.1.0&w=50&s=7769d3dec7b4a737379fcfd760269595"
+            }
+        ]
+    },
+    {
+        "id": 2376735,
+        "time": "2024-10-16T16:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376593,
+        "time": "2024-10-16T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376747,
+        "time": "2024-10-16T17:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "SAW",
+                "logo": "https://img-cdn.hltv.org/teamlogo/9vOlYp2U_z0vXPb9aLK-4r.png?ixlib=java-2.1.0&w=50&s=22abd048c4d198e504696f27e8ff68d1"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376748,
+        "time": "2024-10-16T17:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Nemiga",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=50&s=daa0328ebd0143763544b564610721e9"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376749,
+        "time": "2024-10-16T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376750,
+        "time": "2024-10-16T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376811,
+        "time": "2024-10-16T17:00:00",
+        "event": {
+            "name": "RES Regional Champions 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/9McU1r9WdswAMjLpLcjL5o.png?ixlib=java-2.1.0&w=50&s=6253a588dc0eb78cfdfb891b42002f2f"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "fnatic",
+                "logo": "https://img-cdn.hltv.org/teamlogo/dLtWEdSV58lIX1amAFggy0.svg?ixlib=java-2.1.0&s=f24d0a7b3ef24ed57184a51d35202b4e"
+            },
+            {
+                "id": "N/A",
+                "name": "UNPAID",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2376789,
+        "time": "2024-10-16T22:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "paiN",
+                "logo": "https://img-cdn.hltv.org/teamlogo/iUUCFwCOFmOrwhB8q8smMg.svg?ixlib=java-2.1.0&s=1446e1cf3d02deb8190fe6efd14e4ce4"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376790,
+        "time": "2024-10-16T22:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "MIBR",
+                "logo": "https://img-cdn.hltv.org/teamlogo/sVnH-oAf1J5TnMwoY4cxUC.png?ixlib=java-2.1.0&w=50&s=b0ef463fa0f1638bce72a89590fbaddf"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376791,
+        "time": "2024-10-16T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376792,
+        "time": "2024-10-16T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376775,
+        "time": "2024-10-17T01:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Legacy",
+                "logo": "https://img-cdn.hltv.org/teamlogo/RWbHH6RA8uGwJurGeLFvSr.png?ixlib=java-2.1.0&w=50&s=3d251032e156cab2f6df8c630ca29745"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376776,
+        "time": "2024-10-17T01:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "M80",
+                "logo": "https://img-cdn.hltv.org/teamlogo/U6ziW17pgYxsxR_WQJ_9-V.png?ixlib=java-2.1.0&w=50&s=c26471695a9e28f1c08dd5cf856ecb55"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376777,
+        "time": "2024-10-17T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376778,
+        "time": "2024-10-17T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376699,
+        "time": "2024-10-17T08:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376799,
+        "time": "2024-10-17T08:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Oceania",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Mindfreak",
+                "logo": "https://img-cdn.hltv.org/teamlogo/JXoqNVZaSa0PHYSnfNeJGO.png?ixlib=java-2.1.0&w=50&s=24a2d2849779f23196e546a6ab58c933"
+            },
+            {
+                "id": "N/A",
+                "name": "The Art of War",
+                "logo": "https://img-cdn.hltv.org/teamlogo/5Ms2nfrvHowhTDnzez824B.png?ixlib=java-2.1.0&w=50&s=04387a2d37f6c34d82ab695706d75d74"
+            }
+        ]
+    },
+    {
+        "id": 2376800,
+        "time": "2024-10-17T08:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Oceania",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Housebets",
+                "logo": "https://img-cdn.hltv.org/teamlogo/MiEXvWju-UzF3oAZ79RZ9I.png?ixlib=java-2.1.0&w=50&s=bdbeac701189a235b06a290ef86dea5d"
+            },
+            {
+                "id": "N/A",
+                "name": "KZG",
+                "logo": "https://img-cdn.hltv.org/teamlogo/3nBRNC2hmyfFgIGv65EKyf.png?ixlib=java-2.1.0&w=50&s=2cdee82e3a2de23a951d812e580a3c12"
+            }
+        ]
+    },
+    {
+        "id": 2376807,
+        "time": "2024-10-17T08:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376825,
+        "time": "2024-10-17T08:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Insilio",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_xqicJ8DEOBw-M74mVqh2-.png?ixlib=java-2.1.0&w=50&s=298cba09fc03af645dc3b8f151b4f849"
+            },
+            {
+                "id": "N/A",
+                "name": "9INE",
+                "logo": "https://img-cdn.hltv.org/teamlogo/BGC4LXlC8s4W0xWyelk2BI.png?ixlib=java-2.1.0&w=50&s=9b131e9589738e2c66ad28f1c1ed1d4b"
+            }
+        ]
+    },
+    {
+        "id": 2376732,
+        "time": "2024-10-17T10:00:00",
+        "event": {
+            "name": "Elisa Masters Espoo 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/U1uWoBalR--yFbqx9PfCHL.png?ixlib=java-2.1.0&w=50&s=885bc6e6a8b0b60800399bb9ac2f3615"
+        },
+        "maps": "bo1",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "HEROIC",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6LVaK1MVX06kO1ChAq22v6.svg?ixlib=java-2.1.0&s=1ad0be7366aab3ef6825996762c3e615"
+            },
+            {
+                "id": "N/A",
+                "name": "Rebels",
+                "logo": "https://img-cdn.hltv.org/teamlogo/vfupmnriFumqC8u48wFIdm.png?ixlib=java-2.1.0&w=50&s=f88ee3468bbd8661c4d9e40b2eddda29"
+            }
+        ]
+    },
+    {
+        "id": 2376722,
+        "time": "2024-10-17T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376733,
+        "time": "2024-10-17T11:00:00",
+        "event": {
+            "name": "Elisa Masters Espoo 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/U1uWoBalR--yFbqx9PfCHL.png?ixlib=java-2.1.0&w=50&s=885bc6e6a8b0b60800399bb9ac2f3615"
+        },
+        "maps": "bo1",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "9z",
+                "logo": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b00d55fe74b90f91c5b7e2b58bda5afb"
+            },
+            {
+                "id": "N/A",
+                "name": "ENCE",
+                "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+            }
+        ]
+    },
+    {
+        "id": 2376808,
+        "time": "2024-10-17T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376826,
+        "time": "2024-10-17T11:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ECLOT",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_hHH1jUhX-4DfQpnVo6Gv-.png?ixlib=java-2.1.0&w=50&s=2c4728b37003e75e724612383c869247"
+            },
+            {
+                "id": "N/A",
+                "name": "Permitta",
+                "logo": "https://img-cdn.hltv.org/teamlogo/vHZtmGu5T9miL5KLF_1S1e.png?ixlib=java-2.1.0&w=50&s=f5254450f4e7c2db204ff4a927a58d02"
+            }
+        ]
+    },
+    {
+        "id": 2376765,
+        "time": "2024-10-17T12:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376723,
+        "time": "2024-10-17T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376736,
+        "time": "2024-10-17T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376812,
+        "time": "2024-10-17T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376819,
+        "time": "2024-10-17T14:00:00",
+        "event": {
+            "name": "YaLLa Compass Fall 2024 Contenders",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-rjW6haKtFFdVLGY_tf2K2.png?ixlib=java-2.1.0&w=50&s=f7cf68007281c34e37232e64b5474884"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "FAVBET",
+                "logo": "https://img-cdn.hltv.org/teamlogo/4on2ywp0wcfk7vjUN3OjZk.png?ixlib=java-2.1.0&w=50&s=2bac9b7a976663386b297e8e5732c25e"
+            },
+            {
+                "id": "N/A",
+                "name": "Preasy",
+                "logo": "https://img-cdn.hltv.org/teamlogo/BG_6qGuQUGGMF5tWKsj8eY.png?ixlib=java-2.1.0&w=50&s=05874ebf165b6f8ce313dbc3e04e5cec"
+            }
+        ]
+    },
+    {
+        "id": 2376737,
+        "time": "2024-10-17T16:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376594,
+        "time": "2024-10-17T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376751,
+        "time": "2024-10-17T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376752,
+        "time": "2024-10-17T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376753,
+        "time": "2024-10-17T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376813,
+        "time": "2024-10-17T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376793,
+        "time": "2024-10-17T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376794,
+        "time": "2024-10-17T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376795,
+        "time": "2024-10-17T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376779,
+        "time": "2024-10-18T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376780,
+        "time": "2024-10-18T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376781,
+        "time": "2024-10-18T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376700,
+        "time": "2024-10-18T08:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2376801,
+        "time": "2024-10-18T08:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Oceania",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "FlyQuest",
+                "logo": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2376802,
+        "time": "2024-10-18T08:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376809,
+        "time": "2024-10-18T10:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376724,
+        "time": "2024-10-18T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376766,
+        "time": "2024-10-18T12:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376814,
+        "time": "2024-10-18T13:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376738,
+        "time": "2024-10-18T13:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376725,
+        "time": "2024-10-18T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376739,
+        "time": "2024-10-18T16:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376754,
+        "time": "2024-10-18T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376614,
+        "time": "2024-10-18T17:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Imperial fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Hc-AMHZB9eKXBOJwtNvazg.png?ixlib=java-2.1.0&w=50&s=3878edba54104c915d0b7d2dd8256a39"
+            },
+            {
+                "id": "N/A",
+                "name": "Crescent fe",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2376615,
+        "time": "2024-10-18T17:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "BIG EQUIPA",
+                "logo": "https://img-cdn.hltv.org/teamlogo/6UagLkzIYk5UVlCFmEYXt1.png?ixlib=java-2.1.0&w=50&s=d2655c1d0158cda2f0bdaaeced552421"
+            },
+            {
+                "id": "N/A",
+                "name": "HSG fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/79l0_qpvfG_QdYn-9Wabg1.png?ixlib=java-2.1.0&w=50&s=7de848632bf5886b72e0a39af80ed38e"
+            }
+        ]
+    },
+    {
+        "id": 2376616,
+        "time": "2024-10-18T17:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "dream catchers fe",
+                "logo": "/img/static/team/placeholder.svg"
+            },
+            {
+                "id": "N/A",
+                "name": "Permitta W",
+                "logo": "https://img-cdn.hltv.org/teamlogo/rsd1OQkgvss0ytuwXQIV9n.png?ixlib=java-2.1.0&w=50&s=3aa457bd411888e94f3b931a5d9f01dd"
+            }
+        ]
+    },
+    {
+        "id": 2376617,
+        "time": "2024-10-18T17:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Let Her Cook",
+                "logo": "https://img-cdn.hltv.org/teamlogo/jBvdaNrg3-E8gwW_Ws1f6z.png?ixlib=java-2.1.0&w=50&s=11cfd8d22ef7f97ae34903040aef3baa"
+            },
+            {
+                "id": "N/A",
+                "name": "NIP Impact",
+                "logo": "https://img-cdn.hltv.org/teamlogo/wCqeFerj7ysPkXBxntu9KQ.png?ixlib=java-2.1.0&w=50&s=911392eef6d7fcce84af706f220984ab"
+            }
+        ]
+    },
+    {
+        "id": 2376618,
+        "time": "2024-10-18T17:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "NAVI Javelins",
+                "logo": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c"
+            },
+            {
+                "id": "N/A",
+                "name": "Astralis W",
+                "logo": "https://img-cdn.hltv.org/teamlogo/sP2bJeOvJoAYRPBHUbIyXd.png?ixlib=java-2.1.0&w=50&s=b87df10155dd592914954f889fd97999"
+            }
+        ]
+    },
+    {
+        "id": 2376619,
+        "time": "2024-10-18T17:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 Europe",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Spirit fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/p-lPMizJdtvNkIMVgoKh4s.png?ixlib=java-2.1.0&w=50&s=cfc7015900336bedde57af2f8f8ceed8"
+            },
+            {
+                "id": "N/A",
+                "name": "ENCE Athena",
+                "logo": "https://img-cdn.hltv.org/teamlogo/MI7vomxTyfxOOE9n4lDEG0.png?ixlib=java-2.1.0&w=50&s=c42b96afbfddcaf71e211c214e0f26db"
+            }
+        ]
+    },
+    {
+        "id": 2376624,
+        "time": "2024-10-18T20:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Fluxo Demons",
+                "logo": "https://img-cdn.hltv.org/teamlogo/zGveLNj821BCJGMu93qnj-.png?ixlib=java-2.1.0&w=50&s=f7d69ef82fdaf8d8b7f5a1a7fa8f13ed"
+            },
+            {
+                "id": "N/A",
+                "name": "FURIA fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/cZaGsN8yj6I2dEMfPsibLx.png?ixlib=java-2.1.0&w=50&s=b5481473462f811faf1c535778fcd20d"
+            }
+        ]
+    },
+    {
+        "id": 2376625,
+        "time": "2024-10-18T20:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "MIBR fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/m_JQ624LNFHWiUY-25uuaE.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=6f521aaf8c039fc3f6f235a8a1b7dd40"
+            },
+            {
+                "id": "N/A",
+                "name": "inSanitY fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/sMncI5_CfEpy8cZ71l3s1S.png?ixlib=java-2.1.0&w=50&s=c47b46aede82398ce54fc4b703bf603d"
+            }
+        ]
+    },
+    {
+        "id": 2376626,
+        "time": "2024-10-18T20:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Atrix",
+                "logo": "https://img-cdn.hltv.org/teamlogo/K2VILjWtsdCwtW4NLwhmFA.png?ixlib=java-2.1.0&w=50&s=631ec1a889fa8ae96af4bf035a6030f6"
+            },
+            {
+                "id": "N/A",
+                "name": "thekillaz fe",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2376627,
+        "time": "2024-10-18T20:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 South America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "CAPIVARAS",
+                "logo": "/img/static/team/placeholder.svg"
+            },
+            {
+                "id": "N/A",
+                "name": "PEAK fe",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2376796,
+        "time": "2024-10-18T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376628,
+        "time": "2024-10-18T23:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "TSM Impact",
+                "logo": "https://img-cdn.hltv.org/teamlogo/kihNHIG-DsNbbWevAAi4dh.png?ixlib=java-2.1.0&w=50&s=bd1e8a96c39c831dce96d77cdcf7e991"
+            },
+            {
+                "id": "N/A",
+                "name": "FLUFFY MAFIA",
+                "logo": "https://img-cdn.hltv.org/teamlogo/9vyaBdaH4NKNqaC-tT-owP.png?ixlib=java-2.1.0&w=50&s=84d6dfe2749d2d947c9fd01d2360f466"
+            }
+        ]
+    },
+    {
+        "id": 2376629,
+        "time": "2024-10-18T23:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "FlyQuest RED",
+                "logo": "https://img-cdn.hltv.org/teamlogo/bqRjihc2rY4j6Er94k9vaB.png?ixlib=java-2.1.0&w=50&s=74ed489e974099a3eadc7fee8f9a104d"
+            },
+            {
+                "id": "N/A",
+                "name": "Aware fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/kwC0ch8KE1nX3zfiD73JOe.png?ixlib=java-2.1.0&w=50&s=d981580b829ca883451d1250d3520d01"
+            }
+        ]
+    },
+    {
+        "id": 2376630,
+        "time": "2024-10-18T23:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Blue Otter Karma",
+                "logo": "/img/static/team/placeholder.svg"
+            },
+            {
+                "id": "N/A",
+                "name": "Nouns fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/bOS94PsKWetWSmtp5m-FpK.png?ixlib=java-2.1.0&w=50&s=dbb6c16a953a45e98990b8e7aed39059"
+            }
+        ]
+    },
+    {
+        "id": 2376631,
+        "time": "2024-10-18T23:30:00",
+        "event": {
+            "name": "ESL Impact League Season 6 North America",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Lotus fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/e0Sg9VdVBlKARkTjyOcud_.png?ixlib=java-2.1.0&w=50&s=8d7d26a1c51b591a7eb04892d51e40aa"
+            },
+            {
+                "id": "N/A",
+                "name": "Imp Pact fe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/GV9v5PhaEzoGMp6UGleG4X.png?ixlib=java-2.1.0&w=50&s=0271ab06304cb96a06f115d83f47bd6e"
+            }
+        ]
+    },
+    {
+        "id": 2376782,
+        "time": "2024-10-19T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376803,
+        "time": "2024-10-19T08:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376815,
+        "time": "2024-10-19T10:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376726,
+        "time": "2024-10-19T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376816,
+        "time": "2024-10-19T13:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376740,
+        "time": "2024-10-19T13:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376595,
+        "time": "2024-10-19T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376727,
+        "time": "2024-10-19T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376621,
+        "time": "2024-10-19T14:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376741,
+        "time": "2024-10-19T16:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376755,
+        "time": "2024-10-19T17:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376622,
+        "time": "2024-10-19T17:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376817,
+        "time": "2024-10-19T18:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376797,
+        "time": "2024-10-19T22:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376783,
+        "time": "2024-10-20T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376804,
+        "time": "2024-10-20T06:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2376540,
+        "time": "2024-10-20T10:30:00",
+        "event": {
+            "name": "Elisa Open Finland Season 7 Finals",
+            "logo": "https://img-cdn.hltv.org/eventlogo/-n3VRU1dFKPC7EdbEF6ATw.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=53c9e2338bdb617bd72de82ecd5110a9"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ENCE Academy",
+                "logo": "https://img-cdn.hltv.org/teamlogo/mId6g5Prtm9fz8JdVna2rr.png?ixlib=java-2.1.0&w=50&s=44dd7e8b22c1c56f3b254ebb7ed891a5"
+            },
+            {
+                "id": "N/A",
+                "name": "JANO",
+                "logo": "https://img-cdn.hltv.org/teamlogo/kQCUocnwX5b6iV6VqUJpFA.png?ixlib=java-2.1.0&w=50&s=89440fe49943d9d739584088dee8a9c9"
+            }
+        ]
+    },
+    {
+        "id": 2376728,
+        "time": "2024-10-20T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376596,
+        "time": "2024-10-20T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376729,
+        "time": "2024-10-20T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376742,
+        "time": "2024-10-20T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2376756,
+        "time": "2024-10-20T15:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2376623,
+        "time": "2024-10-20T17:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376798,
+        "time": "2024-10-20T19:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2376784,
+        "time": "2024-10-21T01:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2376827,
+        "time": "2024-10-25T10:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2376828,
+        "time": "2024-10-25T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2376832,
+        "time": "2024-10-25T12:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2376833,
+        "time": "2024-10-25T13:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2376829,
+        "time": "2024-10-25T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2376834,
+        "time": "2024-10-25T15:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2376835,
+        "time": "2024-10-25T16:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376830,
+        "time": "2024-10-26T10:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376836,
+        "time": "2024-10-26T12:45:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376831,
+        "time": "2024-10-26T15:45:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376719,
+        "time": "2024-10-27T08:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376720,
+        "time": "2024-10-27T11:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376837,
+        "time": "2024-10-27T11:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376838,
+        "time": "2024-10-27T13:45:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376721,
+        "time": "2024-10-27T14:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376839,
+        "time": "2024-10-27T16:45:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376767,
+        "time": "2024-11-02T08:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376768,
+        "time": "2024-11-02T11:35:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376769,
+        "time": "2024-11-03T07:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2376770,
+        "time": "2024-11-03T10:45:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    }
+]
