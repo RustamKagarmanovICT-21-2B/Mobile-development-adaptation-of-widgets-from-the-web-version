@@ -1,0 +1,725 @@
+[
+    {
+        "id": 2377947,
+        "time": "2024-12-12T11:30:00",
+        "event": {
+            "name": "European Pro League Season 21",
+            "logo": "https://img-cdn.hltv.org/eventlogo/bLbZhWtpMVCIuFkfoKdQ9V.png?ixlib=java-2.1.0&w=50&s=c00df4060fe1cfd60c6a08b6238782f2"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Apogee",
+                "logo": "https://img-cdn.hltv.org/teamlogo/iX5wi-ZLkdHTARnXcMEvZF.png?ixlib=java-2.1.0&w=50&s=d543c7f38ede96ef911a66c407b6b6cd"
+            },
+            {
+                "id": "N/A",
+                "name": "Aurora Young Blud",
+                "logo": "https://img-cdn.hltv.org/teamlogo/oEbMpT1GK1wi2A3H_hRi06.png?ixlib=java-2.1.0&w=50&s=de8e6f79e695301e25a0090fc7d512ad"
+            }
+        ]
+    },
+    {
+        "id": 2377897,
+        "time": "2024-12-12T12:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ENCE",
+                "logo": "https://img-cdn.hltv.org/teamlogo/-X8NoyWC_1gYqUHvZqcpkc.svg?ixlib=java-2.1.0&s=85bb9daa6f846fa097c5942f2565fdb8"
+            },
+            {
+                "id": "N/A",
+                "name": "Endpoint",
+                "logo": "https://img-cdn.hltv.org/teamlogo/LrJW0lI8ifto6tzTjNkxpw.png?ixlib=java-2.1.0&w=50&s=57e8d46eb4d443936734da803412311f"
+            }
+        ]
+    },
+    {
+        "id": 2377898,
+        "time": "2024-12-12T15:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "GUN5",
+                "logo": "https://img-cdn.hltv.org/teamlogo/h7rPBXKkg9rmhbeBVmRG28.png?ixlib=java-2.1.0&w=50&s=691011f74dd8f8a8786a142b7b2b8c8e"
+            },
+            {
+                "id": "N/A",
+                "name": "Aurora Young Blud",
+                "logo": "https://img-cdn.hltv.org/teamlogo/oEbMpT1GK1wi2A3H_hRi06.png?ixlib=java-2.1.0&w=50&s=de8e6f79e695301e25a0090fc7d512ad"
+            }
+        ]
+    },
+    {
+        "id": 2377982,
+        "time": "2024-12-12T15:30:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe Relegation",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Insilio",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_xqicJ8DEOBw-M74mVqh2-.png?ixlib=java-2.1.0&w=50&s=298cba09fc03af645dc3b8f151b4f849"
+            },
+            {
+                "id": "N/A",
+                "name": "Fire Flux",
+                "logo": "https://img-cdn.hltv.org/teamlogo/dEkPG3QFLGo6xl9DtGPsm2.png?ixlib=java-2.1.0&w=50&s=9a9c4eeb77fd921baa804a425d4e2825"
+            }
+        ]
+    },
+    {
+        "id": 2377864,
+        "time": "2024-12-12T16:00:00",
+        "event": {
+            "name": "500 Casino Christmas Cup 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/uKOFosFGTcNxIdoI6p8vYq.png?ixlib=java-2.1.0&w=50&s=a817d9d61e25cb4bf0e24709a3735063"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ECLOT",
+                "logo": "https://img-cdn.hltv.org/teamlogo/_hHH1jUhX-4DfQpnVo6Gv-.png?ixlib=java-2.1.0&w=50&s=2c4728b37003e75e724612383c869247"
+            },
+            {
+                "id": "N/A",
+                "name": "ECSTATIC",
+                "logo": "https://img-cdn.hltv.org/teamlogo/yx_pWjWbW-2F5oF5nLHXc8.png?ixlib=java-2.1.0&w=50&s=fd7c45846bfcd3fe64ae4454979dbecd"
+            }
+        ]
+    },
+    {
+        "id": 2377899,
+        "time": "2024-12-12T18:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Zero Tenacity",
+                "logo": "https://img-cdn.hltv.org/teamlogo/5RRO6-Yzo13W3OjXINCQEJ.png?ixlib=java-2.1.0&w=50&s=c7d19d01153c3bff329a5b5a4fdd05e1"
+            },
+            {
+                "id": "N/A",
+                "name": "DMS",
+                "logo": "https://img-cdn.hltv.org/teamlogo/8CHmYIq6FPDGeRSWzFX1uu.png?ixlib=java-2.1.0&w=50&s=e42ea22f5907b0d548f534c105d40b6a"
+            }
+        ]
+    },
+    {
+        "id": 2377865,
+        "time": "2024-12-12T19:00:00",
+        "event": {
+            "name": "500 Casino Christmas Cup 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/uKOFosFGTcNxIdoI6p8vYq.png?ixlib=java-2.1.0&w=50&s=a817d9d61e25cb4bf0e24709a3735063"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "SINNERS",
+                "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
+            },
+            {
+                "id": "N/A",
+                "name": "NAVI Junior",
+                "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+            }
+        ]
+    },
+    {
+        "id": 2377983,
+        "time": "2024-12-12T19:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 Europe Relegation",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "FAVBET",
+                "logo": "https://img-cdn.hltv.org/teamlogo/4on2ywp0wcfk7vjUN3OjZk.png?ixlib=java-2.1.0&w=50&s=2bac9b7a976663386b297e8e5732c25e"
+            },
+            {
+                "id": "N/A",
+                "name": "FLuffy Gangsters",
+                "logo": "https://img-cdn.hltv.org/teamlogo/1rM-qNVqKfIbsfOQp7bjTq.png?ixlib=java-2.1.0&w=50&s=f808b12bdca5002af401c93c664b8b72"
+            }
+        ]
+    },
+    {
+        "id": 2377989,
+        "time": "2024-12-12T19:00:00",
+        "event": {
+            "name": "Liga Gamers Club 2024 Serie A December Cup",
+            "logo": "https://img-cdn.hltv.org/eventlogo/fqtxbWFU60JRwFpZ8fOgok.png?ixlib=java-2.1.0&w=50&s=bfb849cab6c91ec350dc6c0ac8035aa0"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "9z Academy",
+                "logo": "https://img-cdn.hltv.org/teamlogo/vC6SOvGFc5Gql1LZ7H74BZ.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=fa986dd9e257ac07d0b21ec44ed399fa"
+            },
+            {
+                "id": "N/A",
+                "name": "2070",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2377990,
+        "time": "2024-12-12T22:00:00",
+        "event": {
+            "name": "Liga Gamers Club 2024 Serie A December Cup",
+            "logo": "https://img-cdn.hltv.org/eventlogo/fqtxbWFU60JRwFpZ8fOgok.png?ixlib=java-2.1.0&w=50&s=bfb849cab6c91ec350dc6c0ac8035aa0"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "RED Canids Academy",
+                "logo": "https://img-cdn.hltv.org/teamlogo/cBbt6PRgyMMpkSLJWncEV3.png?ixlib=java-2.1.0&w=50&s=06898dac8e3dc1cc763c07a28d7b35a2"
+            },
+            {
+                "id": "N/A",
+                "name": "Players",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2377988,
+        "time": "2024-12-13T02:00:00",
+        "event": {
+            "name": "ESL Challenger League Season 48 North America Relegation",
+            "logo": "https://img-cdn.hltv.org/eventlogo/nYADQoBBHeOXRjBW1kFOra.png?ixlib=java-2.1.0&w=50&s=cdec2e890642716f603d275d582433eb"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Wanted Goons",
+                "logo": "https://img-cdn.hltv.org/teamlogo/jgXPDKxRWNP3a5qGXUSRAT.png?ixlib=java-2.1.0&w=50&s=a4b4ec6b79da5b14fd5becaff8981489"
+            },
+            {
+                "id": "N/A",
+                "name": "Take Flyte",
+                "logo": "https://img-cdn.hltv.org/teamlogo/8n-0n4H7i96L0mWDrnbK7N.png?ixlib=java-2.1.0&w=50&s=44b9c0567db3b8b8e7206fd4fa609ec2"
+            }
+        ]
+    },
+    {
+        "id": 2377731,
+        "time": "2024-12-13T06:00:00",
+        "event": {
+            "name": "Perfect World Shanghai Major 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/hUnsT0OR1-lIhL-moBUt74.png?ixlib=java-2.1.0&w=50&s=1ba1b718f31c042aab71986c3776e7ea"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "G2",
+                "logo": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b"
+            },
+            {
+                "id": "N/A",
+                "name": "HEROIC",
+                "logo": "https://img-cdn.hltv.org/teamlogo/4S22uk_gnZTiQiI-hhH4yp.png?ixlib=java-2.1.0&w=50&s=3619ddf1d490573ab3dc261b8c2f3f6f"
+            }
+        ]
+    },
+    {
+        "id": 2377732,
+        "time": "2024-12-13T09:00:00",
+        "event": {
+            "name": "Perfect World Shanghai Major 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/hUnsT0OR1-lIhL-moBUt74.png?ixlib=java-2.1.0&w=50&s=1ba1b718f31c042aab71986c3776e7ea"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Vitality",
+                "logo": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02"
+            },
+            {
+                "id": "N/A",
+                "name": "FaZe",
+                "logo": "https://img-cdn.hltv.org/teamlogo/zbcwVqDX-cVjB7EidzNoPd.png?ixlib=java-2.1.0&w=50&s=74ff0a3827d91bd4b7ad62bf91a8972a"
+            }
+        ]
+    },
+    {
+        "id": 2377900,
+        "time": "2024-12-13T09:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "SINNERS",
+                "logo": "https://img-cdn.hltv.org/teamlogo/9l_WdQSU9JsNHzpK-pwOG2.svg?ixlib=java-2.1.0&s=af432c3ef61c0c843331cc0dc2fed1ed"
+            },
+            {
+                "id": "N/A",
+                "name": "Spirit Academy",
+                "logo": "https://img-cdn.hltv.org/teamlogo/txUq00aBKY7O4fLVJegmi_.png?ixlib=java-2.1.0&w=50&s=0be2e166db241569e89ac4ab8f5fb9a2"
+            }
+        ]
+    },
+    {
+        "id": 2377948,
+        "time": "2024-12-13T09:00:00",
+        "event": {
+            "name": "European Pro League Season 21",
+            "logo": "https://img-cdn.hltv.org/eventlogo/bLbZhWtpMVCIuFkfoKdQ9V.png?ixlib=java-2.1.0&w=50&s=c00df4060fe1cfd60c6a08b6238782f2"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "GUN5",
+                "logo": "https://img-cdn.hltv.org/teamlogo/h7rPBXKkg9rmhbeBVmRG28.png?ixlib=java-2.1.0&w=50&s=691011f74dd8f8a8786a142b7b2b8c8e"
+            },
+            {
+                "id": "N/A",
+                "name": "KOI",
+                "logo": "https://img-cdn.hltv.org/teamlogo/lPfoQHMaORhkfTpcbR-lCQ.png?ixlib=java-2.1.0&w=50&s=88475920222f9d1c17f31ce45be5eb3b"
+            }
+        ]
+    },
+    {
+        "id": 2377949,
+        "time": "2024-12-13T11:30:00",
+        "event": {
+            "name": "European Pro League Season 21",
+            "logo": "https://img-cdn.hltv.org/eventlogo/bLbZhWtpMVCIuFkfoKdQ9V.png?ixlib=java-2.1.0&w=50&s=c00df4060fe1cfd60c6a08b6238782f2"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "NAVI Junior",
+                "logo": "https://img-cdn.hltv.org/teamlogo/v6HtbTihf7xoHF1YlAkJ87.svg?ixlib=java-2.1.0&s=42241b88f4ecffaba7cf57c937236809"
+            },
+            {
+                "id": "N/A",
+                "name": "Sashi",
+                "logo": "https://img-cdn.hltv.org/teamlogo/xa5M31PECYUvHs6wlM9nzM.png?ixlib=java-2.1.0&w=50&s=e3f81637bc8dc9f9e3ab89a0a5c78d7d"
+            }
+        ]
+    },
+    {
+        "id": 2377901,
+        "time": "2024-12-13T12:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Monte",
+                "logo": "https://img-cdn.hltv.org/teamlogo/2tc9n4fHkiRIX2FiJSkhgt.png?ixlib=java-2.1.0&w=50&s=7334ef0dd24ba5349b404dfd0e8c6148"
+            },
+            {
+                "id": "N/A",
+                "name": "Metizport",
+                "logo": "https://img-cdn.hltv.org/teamlogo/uHxM4VRz0qIDKVsckVrbjv.png?ixlib=java-2.1.0&w=50&s=0d1acf7c8552e92196be1d4a2106f9ee"
+            }
+        ]
+    },
+    {
+        "id": 2377902,
+        "time": "2024-12-13T15:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "ALTERNATE aTTaX",
+                "logo": "https://img-cdn.hltv.org/teamlogo/JoPCUmjz0PcCiCPqNHIyR3.svg?ixlib=java-2.1.0&s=24f23b651e49eaab76bae4945b19d7ec"
+            },
+            {
+                "id": "N/A",
+                "name": "9INE",
+                "logo": "https://img-cdn.hltv.org/teamlogo/BGC4LXlC8s4W0xWyelk2BI.png?ixlib=java-2.1.0&w=50&s=9b131e9589738e2c66ad28f1c1ed1d4b"
+            }
+        ]
+    },
+    {
+        "id": 2377866,
+        "time": "2024-12-13T16:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377903,
+        "time": "2024-12-13T18:00:00",
+        "event": {
+            "name": "CCT Season 2 Europe Series 15",
+            "logo": "https://img-cdn.hltv.org/eventlogo/Akq_NbvWcNe_eH6sgiy_Uz.png?ixlib=java-2.1.0&w=50&s=dace1f641b89a7344d3e0928a05104a6"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "AMKAL",
+                "logo": "https://img-cdn.hltv.org/teamlogo/KNl9ZeR2afmpj3-J0fSilz.png?ixlib=java-2.1.0&w=50&s=35d5b38f7bec78b3099a6d46741fb9e0"
+            },
+            {
+                "id": "N/A",
+                "name": "Into the Breach",
+                "logo": "https://img-cdn.hltv.org/teamlogo/Tgyea9TVbc37YisEY4Y13a.png?ixlib=java-2.1.0&w=50&s=025fb7569e69eaec5121872fa0b1125b"
+            }
+        ]
+    },
+    {
+        "id": 2377867,
+        "time": "2024-12-13T19:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377991,
+        "time": "2024-12-13T19:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377733,
+        "time": "2024-12-14T06:00:00",
+        "event": {
+            "name": "Perfect World Shanghai Major 2024",
+            "logo": "https://img-cdn.hltv.org/eventlogo/hUnsT0OR1-lIhL-moBUt74.png?ixlib=java-2.1.0&w=50&s=1ba1b718f31c042aab71986c3776e7ea"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "MOUZ",
+                "logo": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c"
+            },
+            {
+                "id": "N/A",
+                "name": "N/A",
+                "logo": "N/A"
+            }
+        ]
+    },
+    {
+        "id": 2377734,
+        "time": "2024-12-14T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377904,
+        "time": "2024-12-14T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377950,
+        "time": "2024-12-14T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377951,
+        "time": "2024-12-14T11:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377905,
+        "time": "2024-12-14T12:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377924,
+        "time": "2024-12-14T14:00:00",
+        "event": {
+            "name": "LEGION Romanian Esports League Season 4 Finals",
+            "logo": "https://img-cdn.hltv.org/eventlogo/7-CoNMJk-WIbi4nDeQ90RC.png?ixlib=java-2.1.0&w=50&s=e63541f043d5b9f6a363efe1dbba7077"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "Nexus",
+                "logo": "https://img-cdn.hltv.org/teamlogo/TsvwZ9z4tVRO9Ry1jYxs_n.png?ixlib=java-2.1.0&w=50&s=ca777e2c0f8a3e0b26d0c90d98d72fbe"
+            },
+            {
+                "id": "N/A",
+                "name": "Perfect Storm",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2377906,
+        "time": "2024-12-14T15:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377992,
+        "time": "2024-12-14T17:00:00",
+        "event": {
+            "name": "DACH Masters Season 2 Finals",
+            "logo": "https://img-cdn.hltv.org/eventlogo/v6afhUT8geTlONNSzbqirk.png?ixlib=java-2.1.0&w=50&s=cbf0e7b7b879001a8fb229c568d94d32"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "BIG",
+                "logo": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7"
+            },
+            {
+                "id": "N/A",
+                "name": "Arrow",
+                "logo": "https://img-cdn.hltv.org/teamlogo/P15uk52UnE45hpOqX0Z8-0.png?ixlib=java-2.1.0&w=50&s=77e2535747f168d2460db2e53a227f25"
+            }
+        ]
+    },
+    {
+        "id": 2377923,
+        "time": "2024-12-14T17:30:00",
+        "event": {
+            "name": "LEGION Romanian Esports League Season 4 Finals",
+            "logo": "https://img-cdn.hltv.org/eventlogo/7-CoNMJk-WIbi4nDeQ90RC.png?ixlib=java-2.1.0&w=50&s=e63541f043d5b9f6a363efe1dbba7077"
+        },
+        "maps": "bo3",
+        "teams": [
+            {
+                "id": "N/A",
+                "name": "aimclub",
+                "logo": "https://img-cdn.hltv.org/teamlogo/fX8DO7cz2B1JwlbpdF2ea5.svg?ixlib=java-2.1.0&s=28e9dd08349ee6d9c1eb048e655c6591"
+            },
+            {
+                "id": "N/A",
+                "name": "JackBoyz",
+                "logo": "/img/static/team/placeholder.svg"
+            }
+        ]
+    },
+    {
+        "id": 2377907,
+        "time": "2024-12-14T18:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377868,
+        "time": "2024-12-14T19:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377736,
+        "time": "2024-12-15T07:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo1",
+        "teams": []
+    },
+    {
+        "id": 2377735,
+        "time": "2024-12-15T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377952,
+        "time": "2024-12-15T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377908,
+        "time": "2024-12-15T10:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377953,
+        "time": "2024-12-15T11:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377909,
+        "time": "2024-12-15T13:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377925,
+        "time": "2024-12-15T15:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2377910,
+        "time": "2024-12-15T16:30:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377954,
+        "time": "2024-12-16T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377869,
+        "time": "2024-12-16T16:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377870,
+        "time": "2024-12-16T19:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    },
+    {
+        "id": 2377955,
+        "time": "2024-12-17T09:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo5",
+        "teams": []
+    },
+    {
+        "id": 2377871,
+        "time": "2024-12-17T19:00:00",
+        "event": {
+            "name": "N/A",
+            "logo": "N/A"
+        },
+        "maps": "bo3",
+        "teams": []
+    }
+]
